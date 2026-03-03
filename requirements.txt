@@ -4,3 +4,4 @@ matplotlib
 gensim
 ipykernel
 nltk
+scikit-learn
